@@ -4,7 +4,7 @@ Em meteorologia, sempre existiu uma imensidão de dados que precisam ser diariam
 
 ## Instalação e uso
 
-Para fazer uso desta API, você precisará escrever um main chamando as funções de download, interpolação, tratamento e cálculo estatísticos.
+Para fazer uso desta lib, você precisará escrever um main chamando as funções de download, interpolação, tratamento e cálculo estatísticos.
 
 Para isso:
 
@@ -16,7 +16,7 @@ python3 -m venv
 source venv/bin/activate
 ```
 
-Use o [pip](https://pip.pypa.io/en/stable/) para instalar as bibliotecas, fazendo:.
+Use o [pip](https://pip.pypa.io/en/stable/) para instalar as bibliotecas, fazendo:
 
 ```python
 pip install -r requirements.txt
